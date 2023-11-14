@@ -1,0 +1,22 @@
+{
+  "docs/TeamManager Docs/Team Manager.html": {
+    "href": "docs/TeamManager Docs/Team Manager.html",
+    "title": "Architecture | team-manager",
+    "keywords": "An app to manage starting lineups, stats, plays and scouting reports Architecture Razor Pages MVC SQL Server"
+  },
+  "docs/getting-started.html": {
+    "href": "docs/getting-started.html",
+    "title": "Getting Started | team-manager",
+    "keywords": "Getting Started"
+  },
+  "docs/introduction.html": {
+    "href": "docs/introduction.html",
+    "title": "Introduction | team-manager",
+    "keywords": "Introduction"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "This is the HOMEPAGE. | team-manager",
+    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  }
+}
